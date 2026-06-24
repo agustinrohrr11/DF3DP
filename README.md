@@ -1,4 +1,4 @@
-# 🛠️ Proyecto 3D - DF3DP - "Design For 3D Print"
+# 🛠️ Proyecto 3D - DF3DP - "Design For 3D Printing"
 
 Repositorio para compartir y versionar nuestros diseños de impresión 3D utilizando **Git LFS**.
 
